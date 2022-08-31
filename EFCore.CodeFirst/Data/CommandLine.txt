@@ -1,0 +1,3 @@
+Script-Migration
+Add-Migration MigrationDescription
+Update-Database
