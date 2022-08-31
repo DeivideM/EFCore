@@ -5,9 +5,11 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore.CodeFirst", "EFCore.CodeFirst\EFCore.CodeFirst.csproj", "{97F79FEB-21D3-4521-B0E7-2DE0253E85D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore.CodeFirstMySQL", "EFCore.CodeFirstMySQL\EFCore.CodeFirstMySQL.csproj", "{4251DAA4-B589-4C09-BBD3-EDA6CF7B5B18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore.CodeFirstMySQL", "EFCore.CodeFirstMySQL\EFCore.CodeFirstMySQL.csproj", "{4251DAA4-B589-4C09-BBD3-EDA6CF7B5B18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore.DatabaseFirst", "EFCore.DatabaseFirst\EFCore.DatabaseFirst.csproj", "{88FAE44F-8A50-4205-96F7-3482C954DDA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore.DatabaseFirst", "EFCore.DatabaseFirst\EFCore.DatabaseFirst.csproj", "{88FAE44F-8A50-4205-96F7-3482C954DDA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore.ConsoleApp", "EFCore.ConsoleApp\EFCore.ConsoleApp.csproj", "{94A4AA5A-F6CF-47AA-9860-DE405266F24C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{88FAE44F-8A50-4205-96F7-3482C954DDA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88FAE44F-8A50-4205-96F7-3482C954DDA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88FAE44F-8A50-4205-96F7-3482C954DDA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A4AA5A-F6CF-47AA-9860-DE405266F24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A4AA5A-F6CF-47AA-9860-DE405266F24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A4AA5A-F6CF-47AA-9860-DE405266F24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A4AA5A-F6CF-47AA-9860-DE405266F24C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
